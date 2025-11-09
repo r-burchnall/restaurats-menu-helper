@@ -44,6 +44,13 @@
       ] 
     },
     {
+      "name": "medium tenebra steak",
+      "processed": [
+        "medium steak",
+        "baked potato"
+      ] 
+    },
+    {
       "name": "mineral water",
       "processed": [
         "mineral water"
@@ -75,7 +82,7 @@
       ] 
     },
     {
-      "name": "rat treat",
+      "name": "rat treats",
       "processed": [
         "meat patty",
         "tomato sauce",
@@ -90,6 +97,41 @@
           "mayo",
           "grated cheese",
           "cooked sliced onion"
+        ] 
+    },
+    {
+        "name": "dwarf tubers",
+        "processed": [
+          "raw sliced potato",
+          "raw sliced fish",
+          "raw sliced tomato",
+          "mayo"
+        ] 
+    },
+    {
+        "name": "teenage ninja pie",
+        "processed": [
+          "grated cheese",
+          "rolled dough",
+          "tomato sauce",
+          "raw sliced onion",
+          "raw sliced mushroom",
+          "sliced medium-well meat"
+        ] 
+    },
+    {
+        "name": "chicken sticks with mushroom sauce",
+        "processed": [
+          "musroom sauce",
+          "grated cheese",
+          "chicken nuggets"
+        ] 
+    },
+    {
+        "name": "mushroom and potatoes",
+        "processed": [
+          "raw sliced potato",
+          "raw sliced mushroom"
         ] 
     }
   ]
