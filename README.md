@@ -66,7 +66,7 @@ A default `menu.json` is included at the repo root. The main CLI (`index.ts`) wi
 This installs to `~/.local/share/restaurats-menu-helper` and creates shims `menu-cli` and `menu-manage` in `~/.local/bin`.
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/r-burchnall/restaurats-menu-helper/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/r-burchnall/restaurats-menu-helper/refs/heads/main/install.sh | bash
 ```
 
 Requirements: `bun`, `curl`, `tar`.
@@ -74,10 +74,18 @@ Requirements: `bun`, `curl`, `tar`.
 Update to latest:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/r-burchnall/restaurats-menu-helper/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/r-burchnall/restaurats-menu-helper/refs/heads/main/install.sh | bash
 ```
 
-Uninstall:
+## Uninstall
+
+Remove the installation and shims:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/r-burchnall/restaurats-menu-helper/refs/heads/main/uninstall.sh | bash
+```
+
+Or manually:
 
 ```bash
 rm -rf ~/.local/share/restaurats-menu-helper
