@@ -1,0 +1,25 @@
+{
+  "name": "resturats-menu",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r-burchnall/restaurats-menu-helper.git"
+  },
+  "scripts": {
+    "start": "bun run index.ts",
+    "manage": "bun run menu-utils.ts"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "prompts": "^2.4.2"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

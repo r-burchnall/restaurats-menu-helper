@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "name": "chef special mushroom soup",
+      "processed": [
+        "raw sliced chicken",
+        "well-done steak",
+        "sliced carrot",
+        "raw sliced mushroom",
+        "raw sliced potato"
+      ]
+    },
+    {
+      "name": "water",
+      "processed": [
+
+      ] 
+    },
+    {
+      "name": "mushroom pie",
+      "processed": [
+        "raw slice mushroom",
+        "dough"
+      ] 
+    },
+    {
+      "name": "fried mushroom",
+      "processed": [
+        "fried mushroom"
+      ] 
+    },
+    {
+      "name": "hotpot",
+      "processed": [
+        "raw sliced meat",
+        "raw sliced potato"
+      ] 
+    },
+    {
+      "name": "medium tenebra steak with tubers",
+      "processed": [
+        "medium steak",
+        "baked potato"
+      ] 
+    },
+    {
+      "name": "mineral water",
+      "processed": [
+        "mineral water"
+      ] 
+    },
+    {
+      "name": "mushroom treat",
+      "processed": [
+        "rolled dough",
+        "raw slice mushroom",
+        "raw slice onion",
+        "tomato sauce"
+      ] 
+    },
+    {
+      "name": "woodland hotpot",
+      "processed": [
+        "sliced fried cabbage",
+        "raw sliced meat",
+        "sliced carrot",
+        "raw sliced potato"
+      ] 
+    },
+    {
+      "name": "salmon tears",
+      "processed": [
+        "baked fish",
+        "mushroom sauce"
+      ] 
+    },
+    {
+      "name": "rat treat",
+      "processed": [
+        "meat patty",
+        "tomato sauce",
+        "rice"
+      ] 
+    },
+    {
+        "name": "casserole",
+        "processed": [
+          "medium sliced chicken",
+          "fried mushroom",
+          "mayo",
+          "grated cheese",
+          "cooked sliced onion"
+        ] 
+    }
+  ]
+}
+
+
