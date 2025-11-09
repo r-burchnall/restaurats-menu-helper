@@ -1,4 +1,4 @@
-# restaurats-menu-helper
+# Resturats Menu Helper
 _Easiest way: install with_  
 ```bash
 curl -fsSL https://raw.githubusercontent.com/r-burchnall/restaurats-menu-helper/refs/heads/main/install.sh | bash
