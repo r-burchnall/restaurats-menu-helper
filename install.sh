@@ -79,6 +79,11 @@ rm -rf "$INSTALL_DIR"
 mkdir -p "$INSTALL_DIR"
 cp -R "$SRC_DIR"/. "$INSTALL_DIR"/
 
+echo "Installing dependencies..."
+cd "$INSTALL_DIR"
+bun install
+cd - >/dev/null
+
 mkdir -p "$BIN_DIR"
 
 # Create shim: menu-cli
